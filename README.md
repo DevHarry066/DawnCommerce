@@ -16,3 +16,9 @@ This project is built for practice purposes only. I do not claim ownership of an
 
 ## Home Page
 First thing I am doing is building the Home page for the application
+
+
+## Installation References
+
+### Tailwind added to project
+https://tailwindcss.com/docs/guides/vite
