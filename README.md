@@ -22,3 +22,6 @@ First thing I am doing is building the Home page for the application
 
 ### Tailwind added to project
 https://tailwindcss.com/docs/guides/vite
+
+#### Shopify Template
+https://themes.shopify.com/themes/dawn/styles/default/preview?surface_inter_position=1&surface_intra_position=8&surface_type=all
